@@ -14,7 +14,5 @@ A deep learning model that basically acts as a discriminator between real and fa
   * Both models use Adam optimizer during the training process with a learning rate of 0.001.
 
 
-# First Model: Using TensorFlow
- * Loss Function was the Categorical Cross Entropy Loss Function.
- * 
+
     
