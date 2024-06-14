@@ -12,7 +12,23 @@ A deep learning model that basically acts as a discriminator between real and fa
   * The images are in RGB format.
 ## Common Hyperparameters
   * Both models use Adam optimizer during the training process with a learning rate of 0.001.
+  * Both models were trained for 8 epochs.
+  * Adam optimizer was used in both.
 
+## Results
+  * It showed a test accuracy of 98.06% in TensorFlow implementation.
+  * It showed a test accuracy of 99.59% in PyTorch implementation.
+  * This shows that Pytorch delivered better generalized results than TensorFlow.
+
+
+## Technologies
+- Python
+ 
+- Google Colab
+   
+- TensorFlow
+  
+- PyTorch
 
 
     
