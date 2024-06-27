@@ -24,12 +24,7 @@ A deep learning model that basically acts as a discriminator between real and fa
 
 ## Technologies
 - Python
- 
 - Google Colab
-   
 - TensorFlow
-  
 - PyTorch
 
-
-    
